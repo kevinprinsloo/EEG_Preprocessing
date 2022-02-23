@@ -9,4 +9,4 @@ TODO: ADD Denoising Signal Separation (DSS)  - de cheveigné\
 TODO: Add plotting and statistics\
 TODO: Add Time-frequency Analyses\
 TODO: Add Phase and connectivity Analyses\
-TODO: Add Source Analyses\
+TODO: Add Source Analyses
